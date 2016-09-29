@@ -1,0 +1,18 @@
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+
+// Import theme variables
+@import 'variables';
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+// Import Bootstrap for Sass
+@import "bootstrap";
+// Import bootswatch
+@import 'bootswatch';
+
+.well {
+  .fa {
+    font-size: 22px;
+    display: inline;
+  }
+}

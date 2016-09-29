@@ -1,0 +1,12 @@
+<div class="well">
+  <h5 class="text-success">
+    <i class="fa fa-briefcase"></i>
+    {{company_name}} - {{company_location}}
+  </h5>
+  <p class="lead">{{company_title}} ({{company_date_range}})</p>
+  <ul class="list-unstyled">
+    {{# bullets}}
+      <li>{{.}}</li>
+    {{/ bullets}}
+  </ul>
+</div>

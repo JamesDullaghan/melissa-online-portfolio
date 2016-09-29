@@ -1,0 +1,88 @@
+---
+positions:
+- :company_name: 'Rough Draft Brewing Company'
+  :company_location: 'San Diego, CA'
+  :company_title: 'Lead of Operations/Assistant Brewer'
+  :company_date_range: '2015 - 2016'
+  :bullets:
+    - "Efficiently manage brewery staff"
+    - "Responsible for planning, coordinating and scheduling relating to order fulfillment and production"
+    - "Brewed on a fifteen barrel brewhouse"
+    - "Maintained a safe environment by adhering to standard operating procedures"
+    - "Upheld proper standards of cleanliness by performing CIP/SIP on thirty barrel and sixty barrel fermenters"
+    - "Extensive knowledge pertaining to cellar work such as cleaning and filling kegs"
+    - "Yeast Management (harvesting, pitching)"
+    - "Bottling and packaging"
+    - "Safe operation of forklift"
+- :company_name: 'Rough Draft Brewing Company'
+  :company_location: 'San Diego, CA'
+  :company_title: 'Tasting Room Supervisor'
+  :company_date_range: '2013 - 2015'
+  :bullets:
+    - "Effectively manage tasting room staff"
+    - "Creating and delivering staff schedules in a timely manner"
+    - "Responsible for hiring, training and terminating employees when necessary"
+    - "Coordinating onsite events"
+    - "Upheld tasting room inventory and organization"
+    - "Schedule and host brewery tours"
+    - "Provide exemplary customer service and support"
+- :company_name: 'Rough Draft Brewing Company'
+  :company_location: 'San Diego, CA'
+  :company_title: 'Brand Ambassador'
+  :company_date_range: '2013 - 2014'
+  :bullets:
+    - "Created, nourished and maintained relationships with sales accounts"
+    - "Achieved sales goals in a highly competitive market"
+    - "Represented the company in a professional manner"
+    - "Strong verbal and written communication"
+    - "Responsible for scheduling and attending beer festivals, events, and tastings"
+- :company_name: 'Alternate Public Defenders Office'
+  :company_location: 'San Diego, CA'
+  :company_title: 'Investigative Intern'
+  :company_date_range: '2012 - 2013'
+  :bullets:
+    - "Served subpoenas"
+    - "Obtained court records to aid attorneys in case building"
+    - "Reviewed case documents and evidence"
+    - "Helped to canvass and interview potential witnesses"
+    - "Observed court hearings"
+- :company_name: 'Rough Draft Brewing Company'
+  :company_location: 'San Diego, CA'
+  :company_title: 'Bartender'
+  :company_date_range: '2012 - 2016'
+  :bullets:
+    - "Greet and serve guests in a positive and friendly manner"
+    - "Maintain composure and accuracy in a high volume atmosphere"
+    - "Host offsite beer festival events and private onsite events"
+    - "Strong enthusiasm for craft beer and knowledge of the brewing process"
+    - "Ability to perform draft system maintenance and repairs"
+- :company_name: 'Poway Unified School District'
+  :company_location: 'San Diego, CA'
+  :company_title: 'Program Aid'
+  :company_date_range: '2007 - 2012'
+  :bullets:
+    - "Developed and implemented student centered and standards based lesson plans"
+    - "Created and upheld an effective classroom management and discipline strategy"
+    - "Answered phone in timely and professional manner"
+    - "Maintained composure while multitasking"
+    - "Established a positive rapport with peers, parents and teachers"
+---
+educations:
+- :name: 'Palomar Community College'
+  :description: 'Associates Degree, Crime Scene Investigation'
+  :date_range: '2016 - Present'
+- :name: 'San Diego State University'
+  :description: 'Bachelor of Arts and Science, Criminal Justice'
+  :date_range: '2010 - 2012'
+- :name: 'Palomar Community College'
+  :description: 'General Education'
+  :date_range: '2008 - 2010'
+- :name: 'Rancho Bernardo High School'
+  :description: 'High School Diploma'
+  :date_range: '2004 - 2008'
+---
+certificates:
+- :name: 'Cicerone Certified Beer Server'
+- :name: 'SMART Forklift Operator'
+- :name: 'Alpha Phi Sigma, The National Criminal Justice Honor Society'
+---
